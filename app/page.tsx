@@ -221,12 +221,12 @@ export default function Portfolio() {
           </div>
           <div className="max-w-6xl mx-auto mb-8">
             <div className="relative w-full h-64 mb-8 rounded-xl overflow-hidden shadow-lg">
-              <Image
+{/*               <Image
                 src={images.mernStack || "/placeholder.svg"}
                 alt="MERN Stack Technologies"
                 fill
                 className="object-cover"
-              />
+              /> */}
               <div className="absolute inset-0 bg-gradient-to-r from-gray-900/70 to-blue-900/70 flex items-center justify-center">
                 <div className="text-center text-white">
                   <Code className="w-16 h-16 mx-auto mb-4" />
@@ -234,7 +234,7 @@ export default function Portfolio() {
                 </div>
               </div>
             </div>
-            <div className="flex flex-wrap justify-center gap-3">
+            <div className="flex flex-wrap justify-center gap-3 bg-gray-50">
               {skills.map((skill, index) => (
                 <Badge
                   key={skill.name}
