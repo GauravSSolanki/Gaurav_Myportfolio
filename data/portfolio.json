@@ -1,0 +1,158 @@
+{
+  "personalInfo": {
+    "name": "Gaurav Singh Solanki",
+    "title": "MERN Developer",
+    "profileImage": "/images/profile.jpg",
+    "summary": "I want to learn and grow in a challenging environment where I can contribute meaningfully. I am eager to implement my technical skills and creativity within a dynamic team, driving both personal development and organizational success.",
+    "contact": {
+      "email": "gauravpanahera@gmail.com",
+      "phone": "9587481609",
+      "location": "Jaipur",
+      "linkedin": "https://linkedin.com/in/gaurav-singh-solanki-a19b801a9",
+      "github": "https://github.com/GauravSSolanki"
+    }
+  },
+  "navigation": [
+    { "name": "About", "href": "#about" },
+    { "name": "Skills", "href": "#skills" },
+    { "name": "Projects", "href": "#projects" },
+    { "name": "Experience", "href": "#experience" },
+    { "name": "Contact", "href": "#contact" }
+  ],
+  "education": [
+    {
+      "degree": "B-Tech",
+      "institution": "Rajasthan Technical University",
+      "period": "June 2019 - August 2023",
+      "grade": "8.11 CGPA",
+      "gradient": "from-slate-50 to-gray-100"
+    },
+    {
+      "degree": "12th Grade",
+      "institution": "Board of Senior Secondary Education Rajasthan",
+      "period": "July 2017 - May 2018",
+      "grade": "79%",
+      "gradient": "from-gray-50 to-slate-100"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Full Professional Proficiency",
+      "color": "from-blue-500 to-blue-600"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "Native or Bilingual Proficiency",
+      "color": "from-slate-500 to-slate-600"
+    }
+  ],
+  "interests": [
+    { "name": "Watching Movies", "gradient": "from-slate-600 to-slate-700" },
+    { "name": "Cooking", "gradient": "from-gray-600 to-gray-700" },
+    { "name": "Learning", "gradient": "from-blue-600 to-blue-700" },
+    { "name": "Listening Music", "gradient": "from-slate-700 to-gray-700" },
+    { "name": "Sports", "gradient": "from-gray-700 to-slate-800" }
+  ],
+  "skills": [
+    { "name": "React.js", "color": "bg-blue-600" },
+    { "name": "Node.js", "color": "bg-green-600" },
+    { "name": "Express.js", "color": "bg-gray-700" },
+    { "name": "MongoDB", "color": "bg-green-700" },
+    { "name": "JavaScript", "color": "bg-yellow-600" },
+    { "name": "HTML", "color": "bg-orange-600" },
+    { "name": "CSS", "color": "bg-blue-500" },
+    { "name": "Tailwind CSS", "color": "bg-teal-600" },
+    { "name": "Material UI", "color": "bg-indigo-600" },
+    { "name": "Bootstrap", "color": "bg-purple-600" },
+    { "name": "Postgres", "color": "bg-blue-700" },
+    { "name": "Git", "color": "bg-red-600" },
+    { "name": "GitHub", "color": "bg-gray-800" },
+    { "name": "Postman", "color": "bg-orange-500" },
+    { "name": "Zustand", "color": "bg-purple-700" },
+    { "name": "Data Structures & Algorithms", "color": "bg-indigo-700" },
+    { "name": "C++", "color": "bg-blue-800" }
+  ],
+  "projects": [
+    {
+      "title": "Cloudprinter SaaS Platform",
+      "period": "04/2025 - Present",
+      "role": "Backend Developer / Full-Stack Developer",
+      "description": "A multi-tenant SaaS platform designed to empower print resellers with branded, white-labeled print-on-demand services. Acts as middleware between resellers and Cloudprinter.com, managing product catalog, pricing, order processing, and client API integrations.",
+      "technologies": ["Node.js", "Express.js", "MongoDB", "React.js", "API Integration"],
+      "gradient": "from-slate-600 to-slate-700",
+      "link": null
+    },
+    {
+      "title": "Matrimonial Site",
+      "period": "11/2024 - 03/2025",
+      "role": "Full-Stack Developer",
+      "description": "A full-stack MERN matrimonial platform designed to help individuals find their ideal life partners. Features secure user authentication, profile management, and matchmaking algorithms.",
+      "technologies": ["MongoDB", "Express.js", "React.js", "Node.js", "React Router", "CSS"],
+      "gradient": "from-blue-600 to-blue-700",
+      "link": "https://rajputmatches.vercel.app/login"
+    }
+  ],
+  "workExperience": [
+    {
+      "position": "Web Developer (MERN)",
+      "company": "Groot Software Pvt Ltd.",
+      "location": "Jaipur",
+      "period": "08/2024 - Present",
+      "responsibilities": [
+        "Assisted in the development of web applications using the MERN stack, gaining hands-on experience in React.js, Node.js, and MongoDB",
+        "Engaged in continuous learning, staying abreast of the latest industry trends and technologies",
+        "Collaborated with team members on various projects to deliver high-quality web solutions"
+      ],
+      "gradient": "from-blue-600 to-slate-700"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Fonix Tech",
+      "period": "05/2025 - Present",
+      "role": null,
+      "gradient": "from-slate-600 to-slate-700"
+    },
+    {
+      "name": "National Service Scheme (NSS)",
+      "period": "03/2022 - 05/2023",
+      "role": "Volunteer",
+      "gradient": "from-blue-600 to-blue-700"
+    }
+  ],
+  "images": {
+    "mernStack": "/images/mern-stack.png",
+    "codingSetup": "/images/coding-setup.png",
+    "webDevelopment": "/images/web-development.png"
+  },
+  "socialLinks": [
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/gaurav-singh-solanki-a19b801a9",
+      "gradient": "from-blue-600 to-blue-700",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/GauravSSolanki",
+      "gradient": "from-gray-700 to-gray-800",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:gauravpanahera@gmail.com",
+      "gradient": "from-slate-600 to-slate-700",
+      "icon": "mail"
+    }
+  ],
+  "sectionTitles": {
+    "about": "About Me",
+    "skills": "Technical Skills",
+    "projects": "Personal Projects",
+    "experience": "Work Experience",
+    "contact": "Get In Touch",
+    "organizations": "Organizations"
+  },
+  "contactMessage": "I'm always open to discussing new opportunities and interesting projects. Feel free to reach out if you'd like to connect!"
+}
