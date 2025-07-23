@@ -55,40 +55,59 @@
     { "name": "Sports", "gradient": "from-gray-700 to-slate-800" }
   ],
   "skills": [
-    { "name": "React.js", "color": "bg-blue-600" },
-    { "name": "Node.js", "color": "bg-green-600" },
-    { "name": "Express.js", "color": "bg-gray-700" },
-    { "name": "MongoDB", "color": "bg-green-700" },
+    { "name": "React.js", "color": "bg-yellow-600" },
+    { "name": "Node.js", "color": "bg-blue-600" },
+    { "name": "Express.js", "color": "bg-blue-600" },
+    { "name": "MongoDB", "color": "bg-green-600" },
+    { "name": "SQl", "color": "bg-yellow-600" },
+    { "name": "Strapi", "color": "bg-blue-600" },
+    { "name": "PostgreSQL", "color": "bg-yellow-600" },
+    { "name": "MySQL", "color": "bg-blue-600" },
+    { "name": "Sequelize", "color": "bg-blue-600" },
+    { "name": "Socket.io", "color": "bg-blue-600" },
     { "name": "JavaScript", "color": "bg-yellow-600" },
-    { "name": "HTML", "color": "bg-orange-600" },
-    { "name": "CSS", "color": "bg-blue-500" },
-    { "name": "Tailwind CSS", "color": "bg-teal-600" },
-    { "name": "Material UI", "color": "bg-indigo-600" },
-    { "name": "Bootstrap", "color": "bg-purple-600" },
-    { "name": "Postgres", "color": "bg-blue-700" },
-    { "name": "Git", "color": "bg-red-600" },
-    { "name": "GitHub", "color": "bg-gray-800" },
-    { "name": "Postman", "color": "bg-orange-500" },
-    { "name": "Zustand", "color": "bg-purple-700" },
-    { "name": "Data Structures & Algorithms", "color": "bg-indigo-700" },
-    { "name": "C++", "color": "bg-blue-800" }
+    { "name": "HTML", "color": "bg-blue-600" },
+    { "name": "CSS", "color": "bg-blue-600" },
+    { "name": "Tailwind CSS", "color": "bg-yellow-600" },
+    { "name": "Material UI", "color": "bg-blue-600" },
+    { "name": "Bootstrap", "color": "bg-yellow-600" },
+    { "name": "Postgres", "color": "bg-blue-600" },
+    { "name": "Git", "color": "bg-gray-600" },
+    { "name": "GitHub", "color": "bg-gray-600" },
+    { "name": "Postman", "color": "bg-gray-600" },
+    { "name": "Zustand", "color": "bg-gray-600" },
+    { "name": "Data Structures & Algorithms", "color": "bg-blue-600" },
+    { "name": "C++", "color": "bg-blue-600" }
   ],
   "projects": [
     {
       "title": "Cloudprinter SaaS Platform",
-      "period": "04/2025 - Present",
-      "role": "Backend Developer / Full-Stack Developer",
+      "period": "Apr 2025 - Present",
+      "role": "Backend Developer",
       "description": "A multi-tenant SaaS platform designed to empower print resellers with branded, white-labeled print-on-demand services. Acts as middleware between resellers and Cloudprinter.com, managing product catalog, pricing, order processing, and client API integrations.",
-      "technologies": ["Node.js", "Express.js", "MongoDB", "React.js", "API Integration"],
-      "gradient": "from-slate-600 to-slate-700",
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "React.js",
+        "API Integration"
+      ],
+      "gradient": "from-blue-600 to-blue-700",
       "link": null
     },
     {
       "title": "Matrimonial Site",
-      "period": "11/2024 - 03/2025",
+      "period": "Nov 2024 - Mar 2025",
       "role": "Full-Stack Developer",
-      "description": "A full-stack MERN matrimonial platform designed to help individuals find their ideal life partners. Features secure user authentication, profile management, and matchmaking algorithms.",
-      "technologies": ["MongoDB", "Express.js", "React.js", "Node.js", "React Router", "CSS"],
+      "description": "A full-featured MERN-based matrimonial platform crafted to connect individuals with their perfect life partners. It offers secure user authentication, intuitive profile management, and intelligent matchmaking algorithms to ensure meaningful and compatible matches.",
+      "technologies": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "React Router",
+        "CSS"
+      ],
       "gradient": "from-blue-600 to-blue-700",
       "link": "https://rajputmatches.vercel.app/login"
     }
@@ -122,9 +141,9 @@
     }
   ],
   "images": {
-    "mernStack": "/images/mern-stack.png",
-    "codingSetup": "/images/coding-setup.png",
-    "webDevelopment": "/images/web-development.png"
+    "mernStack": "https://tse1.mm.bing.net/th/id/OIP.Vv_QuevhaH-ULWJrFIYtAwHaD3?pid=Api&P=0&h=180",
+    "codingSetup": "https://i.pinimg.com/736x/8f/51/df/8f51df6e1feac87c574856c37a92d909.jpg",
+    "webDevelopment": "https://www.keg.com/hubfs/shutterstock_1913068270-jpg.jpeg"
   },
   "socialLinks": [
     {

@@ -10,6 +10,24 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
     "*.{js,ts,jsx,tsx,mdx}"
   ],
+  safelist: [
+    "from-blue-600",
+    "to-blue-700",
+    "from-gray-700",
+    "to-gray-800",
+    "from-slate-600",
+    "to-slate-700",
+    "from-slate-50",
+    "to-gray-100",
+    "from-gray-50",
+    "to-slate-100",
+    // Added for skills badge backgrounds
+    "bg-yellow-600",
+    "bg-blue-600",
+    "bg-red-600",
+    "bg-green-600",
+    "bg-gray-600"
+  ],
   theme: {
   	extend: {
   		colors: {
